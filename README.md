@@ -1,3 +1,5 @@
+![Demo](pic_1.jpeg)
+![Demo](pic_2.jpeg)
 This script performs a comprehensive data cleaning and preprocessing on a dataset of used cars. Here's a breakdown of what it does:
 
 1) Downloads and Loads Data:
